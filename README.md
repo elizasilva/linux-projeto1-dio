@@ -1,2 +1,4 @@
-# linux-projeto1-dio
- Infraestrutura como código (IaC)
+# Primeiro projeto Linux DIO
+ 
+ Infraestrutura como código (IaC):
+ Script de criação de estrutura de usuários, diretórios e permissões.
