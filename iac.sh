@@ -43,7 +43,7 @@ echo "Fim....."
 # INSTRUÇÕES DE EXECUÇÃO
 
 # 1º passo: dar permissão de execução do script. 
-# chmod +x linux_projeto_1.sh
+# chmod +x iac.sh
 # 2º passo: executar o script.
 # ./iac.sh
 
